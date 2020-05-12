@@ -1,0 +1,19 @@
+div.a {
+ background-color: lightgrey;
+ width:300px;
+ height:150px
+
+ }
+ div.b{
+background-image: linear-gradient(red,blue,orange);
+ width: 200px;
+ height: 200px;
+ margin-top: 50;
+ }
+ div.c {
+ border-radius: 150%;
+ background-color: orange;
+ width:150px;
+ height:150px;
+ margin-top: 50;
+ }
